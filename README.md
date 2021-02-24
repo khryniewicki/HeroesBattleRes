@@ -1,6 +1,6 @@
 ### Heroes Battle Resource Server
 
-Heroes Battle Resource Server to aplikacja serwerowa gry Heroes Battle. Aplikacja została napisana przy użyciu Springa, JUnit5, Rest Assured, WebSocket. Dostęp do zasobów jest udzielany poprzez serwer autoryzacyjny Key Cloak:
+Heroes Battle Resource Server to aplikacja serwerowa gry Heroes Battle. Aplikacja została napisana przy użyciu Javy, frameworku Spring, JUnit5, Rest Assured, WebSocket. Dostęp do zasobów jest udzielany poprzez serwer autoryzacyjny Key Cloak:
 \
 https://heroes-battle-auth.khryniewicki.pl/auth/. 
 
