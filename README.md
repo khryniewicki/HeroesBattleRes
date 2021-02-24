@@ -1,6 +1,6 @@
 ### Heroes Battle Resource Server [PL]
-
-Heroes Battle Resource Server to aplikacja serwerowa gry Heroes Battle. Aplikacja została napisana przy użyciu Javy, frameworku Spring, JUnit5, Rest Assured, WebSocket. Dostęp do zasobów jest udzielany poprzez serwer autoryzacyjny Key Cloak:
+\
+***Heroes Battle Resource Server*** to aplikacja serwerowa gry Heroes Battle. Aplikacja została napisana przy użyciu Javy, frameworku Spring, JUnit5, Rest Assured, WebSocket. Dostęp do zasobów jest udzielany poprzez serwer autoryzacyjny Key Cloak:
 \
 https://heroes-battle-auth.khryniewicki.pl/auth/. 
 
@@ -11,10 +11,12 @@ Aplikacja Heroes Battle Resource Server ma za zadanie :
 - [x] pobranie gry, po pozytywnej autoryzacji
 - [x] sterowanie opcjami gry przez administratora.
 
+> Heroes Battle to gra 2D, która umożliwia grę zdalnie z innymi graczami w czasie rzeczywistym.  
+
 ----
 ### Heroes Battle Resource Server [ENG]
-
-Heroes Battle Resource Server is the Heroes Battle game server application. The application was written using Java, Spring framework, JUnit5, Rest Assured, WebSocket. Access to resources is granted through the Key Cloak authorization server:
+\
+***Heroes Battle Resource Server*** is the Heroes Battle game server application. The application was written using Java, Spring framework, JUnit5, Rest Assured, WebSocket. Access to resources is granted through the Key Cloak authorization server:
 \
 https://heroes-battle-auth.khryniewicki.pl/auth/. 
 
@@ -24,3 +26,6 @@ The Heroes Battle Resource Server application is designed to:
 - [x] control of the game time and the time needed to log in the other player
 - [x] game download, after positive authorization
 - [x] game options control by the administrator.
+
+> Heroes Battle is a 2D game that allows you to play remotely with other players in real time.
+
